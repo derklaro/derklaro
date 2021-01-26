@@ -8,4 +8,4 @@ My name is Pasqual Koschmieder. I'm a german student and a event technology love
 
 💬 Outside of development and school stuff, I love to talk about history, technology, politics, technology and some other stuff. 
 
-![derklaro's github stats](https://github-readme-stats.vercel.app/api?username=derklaro&count_private=true)
+![derklaro's github stats](https://github-readme-stats.vercel.app/api?username=derklaro&count_private=true&show_icons=true&theme=dark)
