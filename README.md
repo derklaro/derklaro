@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-My name is Pasqual Koschmieder. I'm a german student and a event technology lover. Most of my work is related to minecraft but i am involved in some other projects too.
+My name is Pasqual Koschmieder. I'm a computer science student from germany and a ☕ enthusiast.
 
-✍️ I'm currently working on [a minecraft server re-implementation based on the bukkit api](https://github.com/derklaro/bedrock), [ReformCloud](https://github.com/ReformCloud/reformcloud2), [CloudNet](https://github.com/CloudNetService/CloudNet-v3) and some other projects like my [dependency-to-file collection maven plugin](https://github.com/derklaro/dependency-list-maven-plugin).
+✍️ Since August 2021 I am a software engineer at [EasyBill](https://easybill.de)
 
-🌱 I'm currently looking to improve my java and kotlin development skills.
+🌱 I'm currently mostly working on improving my PHP, Rust, Kotlin and Ruby Skills. My main programming language is Java.
 
-💬 Outside of development and school stuff, I love to talk about history, technology, politics, technology and some other stuff. 
+🔭 In my freetime I work on projects like [aerogel](https://github.com/derklaro/aerogel) and [CloudNet](https://cloudnetservice.eu).
+
+💬 Other than that I love to play video games, talk about science and politics, or vibin to chill music 😄
 
 ![derklaro's github stats](https://github-readme-stats.vercel.app/api?username=derklaro&count_private=true&show_icons=true&theme=dark)
+![GitHub profile trophy](https://github-profile-trophy.vercel.app/?username=derklaro&theme=onedark)
