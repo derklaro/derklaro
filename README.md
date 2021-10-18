@@ -11,3 +11,4 @@ My name is Pasqual Koschmieder. I'm a computer science student from germany and 
 💬 Other than that I love to play video games, talk about science and politics, or vibin to chill music 😄
 
 ![derklaro's github stats](https://github-readme-stats.vercel.app/api?username=derklaro&count_private=true&show_icons=true&theme=dark)
+![derklaro's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=derklaro&theme=dracula)
