@@ -13,11 +13,3 @@ My name is Pasqual Koschmieder. I'm a computer science student from germany and 
 <span>
   <img align="center" src="https://github-profile-trophy.vercel.app/?username=derklaro&margin-w=15&row=1" />
 </span>
-
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=derklaro&count_private=true&show_icons=true&include_all_commits=true&theme=dark" />
-</span>
-
-<span>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=derklaro&layout=compact&theme=dark" />
-</span>
